@@ -1,0 +1,293 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MsgLstn",
+            "request": "launch",
+            "mainClass": "MsgLstn",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch TextFieldExample",
+            "request": "launch",
+            "mainClass": "TextFieldExample",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch tryg",
+            "request": "launch",
+            "mainClass": "tryg",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch MsgLstnr",
+            "request": "launch",
+            "mainClass": "MsgLstnr",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Superclass",
+            "request": "launch",
+            "mainClass": "Superclass",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch multithreaded_programing",
+            "request": "launch",
+            "mainClass": "multithreaded_programing",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch multithreaded",
+            "request": "launch",
+            "mainClass": "multithreaded",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Output",
+            "request": "launch",
+            "mainClass": "Output",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch variable_scope",
+            "request": "launch",
+            "mainClass": "variable_scope",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch method_overridin",
+            "request": "launch",
+            "mainClass": "method_overridin",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch increment",
+            "request": "launch",
+            "mainClass": "increment",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Collection_iterators",
+            "request": "launch",
+            "mainClass": "Collection_iterators",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch evaluate",
+            "request": "launch",
+            "mainClass": "evaluate",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch interfaces",
+            "request": "launch",
+            "mainClass": "interfaces",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Arraylist",
+            "request": "launch",
+            "mainClass": "Arraylist",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch frame_prog",
+            "request": "launch",
+            "mainClass": "frame_prog",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch excptnhndln",
+            "request": "launch",
+            "mainClass": "excptnhndln",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch intrfc",
+            "request": "launch",
+            "mainClass": "intrfc",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch method_overriding",
+            "request": "launch",
+            "mainClass": "method_overriding",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Abc",
+            "request": "launch",
+            "mainClass": "Abc",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch chocolate",
+            "request": "launch",
+            "mainClass": "chocolate",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch inherit",
+            "request": "launch",
+            "mainClass": "inherit",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch stack_exc",
+            "request": "launch",
+            "mainClass": "stack_exc",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch practice_1",
+            "request": "launch",
+            "mainClass": "practice_1",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch emp_details",
+            "request": "launch",
+            "mainClass": "emp_details",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Rectangular",
+            "request": "launch",
+            "mainClass": "Rectangular",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch rec",
+            "request": "launch",
+            "mainClass": "rec",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch rectangular",
+            "request": "launch",
+            "mainClass": "rectangular",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "name": "Java",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ]
+        },
+        {
+            "name": "Java Console App",
+            "type": "java",
+            "request": "launch",
+            "stopOnEntry": true,
+            "jdkPath": "${env:JAVA_HOME}/bin",
+            "cwd": "${fileDirname}",
+            "startupClass": "${fileBasenameNoExtension}",
+            "classpath": [
+                ".",
+                "${fileDirname}"
+            ],
+            "externalConsole": true
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch array_learning",
+            "request": "launch",
+            "mainClass": "array_learning",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch costructor_overloading",
+            "request": "launch",
+            "mainClass": "costructor_overloading",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch cube_calculation",
+            "request": "launch",
+            "mainClass": "cube_calculation",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch firstprog",
+            "request": "launch",
+            "mainClass": "firstprog",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch helpabc",
+            "request": "launch",
+            "mainClass": "helpabc",
+            "projectName": "Java_81e3f676"
+        },
+        {
+            "type": "java",
+            "name": "Launch triangle_calculation",
+            "request": "launch",
+            "mainClass": "triangle_calculation",
+            "projectName": "Java_81e3f676"
+        }
+    ]
+}
